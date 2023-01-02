@@ -16,6 +16,7 @@ A collection of great playgrounds for developer tools and languages.
 - [Svelte](https://svelte.dev/repl/hello-world?version=3.55.0)
 - [Vue](https://sfc.vuejs.org/)
 - [MDX](https://mdxjs.com/playground/)
+- [Markdoc](https://markdoc.dev/sandbox)
 - [Prisma](https://playground.prisma.io/)
 
 ## Inclusion Criteria
