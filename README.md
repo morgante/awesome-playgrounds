@@ -5,6 +5,7 @@ A collection of great playgrounds for developer tools and languages.
 - [ClickHouse](https://play.clickhouse.com/play)
 - [Axiom](https://www.axiom.co/play)
 - [Rome](https://docs.rome.tools/playground/)
+- [Expo Snack](https://snack.expo.dev/)
 - [Laravel](https://laravelplayground.com/#/)
 - [Go](https://go.dev/play/)
 - [Rust](https://play.rust-lang.org/)
